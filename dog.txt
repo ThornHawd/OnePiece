@@ -1,2 +1,4 @@
 dog is a kind animal.
 I am a coder.
+I like movie movie .
+I want to eat something.
