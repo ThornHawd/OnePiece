@@ -1,0 +1,2 @@
+dog is a kind animal.
+I am a coder.
